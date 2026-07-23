@@ -6,7 +6,7 @@ import streamlit as st
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent
-MODEL_PATH = PROJECT_ROOT / "models" / "registration_model_pipeline.joblib"
+MODEL_PATH = PROJECT_ROOT / "registration_model_pipeline.joblib"
 
 FEATURE_COLUMNS = [
     "time_on_page_seconds",
