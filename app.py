@@ -180,8 +180,8 @@ def build_input_dataframe(
 
 
 st.markdown('<div class="app-shell">', unsafe_allow_html=True)
-st.markdown('<div class="app-kicker">Data Science Career Session</div>', unsafe_allow_html=True)
-st.markdown('<div class="app-title">Registration probability predictor</div>', unsafe_allow_html=True)
+st.markdown('<div class="app-kicker">Peter Finn Data Solutions</div>', unsafe_allow_html=True)
+st.markdown('<div class="app-title">School Registration probability predictor</div>', unsafe_allow_html=True)
 st.markdown(
     '<div class="app-subtitle">Enter visitor session details to estimate the chance that the visitor will register.</div>',
     unsafe_allow_html=True,
