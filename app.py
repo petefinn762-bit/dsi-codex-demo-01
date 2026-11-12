@@ -62,7 +62,7 @@ st.markdown(
 
     .app-kicker {
         color: #77d7c8;
-        font-size: 0.84rem;
+        font-size: 1.8rem;
         font-weight: 700;
         letter-spacing: 0.08rem;
         text-transform: uppercase;
